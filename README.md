@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IssadaornNK
+- 👋 Hi, I’m Neo
 - 👀 You can call me Pupa!
 - 🌱 I’m currently learning C#
 - 📫 How to reach me IG: ne0negi

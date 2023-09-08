@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Neo
 - 👾 You can call me Pupa!
 - 💫 I'm interesting in game development, 
-- 🌻 and you can ask me to join your project.
+- 🌻 and feel free to ask me to join your project.
 - 📫 IG: ne0negi
 - 🧚🏻‍♀️ Twitch: ne0negi
  <!-- 🌱 I’m currently learning --->

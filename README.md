@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neo
 - 👾 You can call me Pupa!
-- 🌱 I’m currently learning JavaScript and C#
+<!-- 🌱 I’m currently learning --->
 - 💫 I'm interesting in game development, 
 - 🌻 and you can ask me to join your project.
 - 📫 IG: ne0negi

@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neo</h1>
 <h3 align="center">I'm interesting in game development🌻 feel free to ask me to join your project.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=issadaornnk" alt="issadaornnk" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=issadaornnk&theme=darkhub" alt="issadaornnk" /></a> </p>
 
 - 🌱 I’m currently learning **lua**
 

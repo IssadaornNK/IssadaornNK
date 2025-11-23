@@ -4,8 +4,6 @@
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=issadaornnk&theme=darkhub" alt="issadaornnk" /></a> </p>
 
-- 🌱 I’m currently learning **lua**
-
 - 📫 How to reach me **issadaornn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

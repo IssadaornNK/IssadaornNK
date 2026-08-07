@@ -2,7 +2,7 @@
 <h3 align="center">I'm interesting in game development🌻 feel free to ask me to join your project.</h3>
 
 <p align="center"> 
-  <a href="https://github-profile-trophy.vercel.app/?username=issadaornnk&theme=darkhub"><img src="(https://trophy.benkou.dev/?username=IssadaornNK&theme=darkhub" alt="issadaornnk" /></a> </p>
+  <a href="https://github-profile-trophy.vercel.app/?username=issadaornnk&theme=darkhub"><img src="https://trophy.benkou.dev/?username=IssadaornNK&theme=darkhub" alt="issadaornnk" /></a> </p>
 
 - 📫 How to reach me **issadaornn@gmail.com**
 
